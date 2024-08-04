@@ -1,2 +1,2 @@
 # Главная страница
-<img src="Files/Images/Star.png" height=50 width=50>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creeper5Like&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
